@@ -12,7 +12,7 @@ import java.awt.event.ActionListener;
 
 /**
  *
- * @author Fitriyani Rahmadini
+ * @author Lenovo
  */
 public class TugasModul07 extends JFrame {
    
