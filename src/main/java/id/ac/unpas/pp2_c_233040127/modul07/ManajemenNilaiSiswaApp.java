@@ -11,9 +11,12 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /**
- * Kelas ini digunakan untuk mengelola input dan menampilkan
- * data nilai mahasiswa menggunakan komponen GUI lanjut.
+ * 
+ * @author Lenovo
+ * 
  */
+
+//Kelas ini digunakan untuk mengelola input dan menampilkan data nilai mahasiswa menggunakan komponen GUI lanjut.
 public class ManajemenNilaiSiswaApp extends JFrame {
 
     // Deklarasi komponen input
